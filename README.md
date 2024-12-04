@@ -1,5 +1,9 @@
-##Efficient Adjacent Feature Harmonizer Network With UAV-CD+ Dataset for Remote Sensing Change Detection
+## Efficient Adjacent Feature Harmonizer Network With UAV-CD+ Dataset for Remote Sensing Change Detection
 
 Authors: Yikui Zhai, Jiahao Pan, Hongsheng Zhang, Tingfeng Xian, Ying Xu, Pasquale Coscia, Angelo Genovese, Vincenzo Piuri, Fabio Scotti, C. L. Philip Chen.
 
-abstract: Remote sensing change detection (RSCD) aims to identify changes within bi-temporal registered images. However, existing deep learning-based RSCD networks are plagued by the drawbacks of extensive parameter counts and substantial computational overheads, which fail to yield satisfactory results when deployed in real RSCD applications, such as computation on edge devices. Therefore, we propose a novel RSCD network with fast computational speed and lightweight design. It is based on MobileNetV2, where sophisticated and elementary levels  features are fused and refined, followed by harmonizing spatial and channel feature information. We introduce Multiscale Feature Neighbor Fusion Module(MFNFM) and Spatial and Channel Harmonizer(SCFHM), which respectively refine the fused sophisticated and elementary levels features extracted by MobileNetV2 and harmonize the spatiotemporal information of the change difference map. Moreover, data-driven deep learning (DL) algorithms encounter another challenge in the form of insufficient granularity, more practical datasets. Therefore, we present UAV-CD+, a dataset comprising 2002 pairs of bi-temporal UAV low-altitude images, each sized at 1024×1024. We performed experiments on three publicly accessible datasets in conjunction with UAV-CD+, comparing the results with other state-of-the-art (SOTA) methods. UCSFH-Net attains the utmost precision, obtaining 91.74\% on LEVIR-CD, 84.28\% on SYSU-CD, 79.12\% on CLCD, and 70.12\% on UAV-CD+
+## Dataset
+
+1.Use the school's email address (edu, stu, etc.) and send an email to: yikuizhai@163.com
+2.Sign the relevant agreement to ensure that it will only be used for scientific research and not for commercial purposes.A scanned version of the agreement that requires a handwritten signature. Both Chinese and English signatures are acceptable.
+3.Authorization will be obtained in 1-3 days. (Notice: If you use this dataset as the benchmark dataset for your paper, please cite the paper )
